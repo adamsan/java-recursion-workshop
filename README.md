@@ -11,7 +11,7 @@ at which time the rest of each repetition is processed from the last one called 
 
 
 A **recursive function** solves a task by:
-- reducing it to a base cases, which produces a simple result,
+- reducing it to a base case, which produces a simple result,
 - and reducing it to a simpler case of itself, until we reach the base case. (the function calls itself)
 
 Example: (countdown to zero)
